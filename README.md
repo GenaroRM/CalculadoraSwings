@@ -1,2 +1,2 @@
-# CalculadoraSwings
-Calculadora en Swing con 5 funciones mas
+# calculadora
+calculadora básica echa en java
